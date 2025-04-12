@@ -1,57 +1,47 @@
-🚗 Toyota Safety Complaint Analysis
-This project analyzes safety complaints registered against Toyota vehicles, sourced from the National Highway Traffic Safety Administration (NHTSA). The goal is to uncover trends and insights to better understand potential safety issues reported by vehicle owners.
+# Toyota-Safety-Complaint-Analysis
 
-    📊 Key Insights
-    1. 📅 Annual Safety Complaints (2020–2024)
-        Year	Number of Complaints
-        2020	4,485
-        2021	3,223
-        2022	2,735
-        2023	3,079
-        2024	4,092
-    Average Year-over-Year increase (2022–2024): ~22%
+In this project, I have analysed the safety complaints registered against Toyota's vehicle which is available in [NHTSA](https://www.nhtsa.gov/).
 
-2. 🚘 Top 5 Toyota Models by Number of Complaints
-Rank	Model	Complaints
-1	RAV	2,499
-2	CAMRY	2,150
-3	HIGHLANDER	1,538
-4	TACOMA	1,325
-5	PRIUS	1,303
-⚠️ Note: These numbers are raw counts and not normalized by vehicle sales or production volume. They should not be interpreted as definitive indicators of reliability or safety issues.
+<h1>Some interesting insights drawn from the analysis</h1>
 
-3. ⚠️ Severity Keywords in Complaints
-Analyzed keywords across complaints to identify mentions of critical incidents:
+a) Number of safety complaints registered against toyota's vehicles from 2020 to 2024
+   1. Year 2020: 4485 complaints
+   2. Year 2021: 3223 complaints
+   3. Year 2022: 2735 complaints
+   4. Year 2023: 3079 complaints
+   5. Year 2024: 4092 complaints
+The average Year-over-year increase in complaints from 2022 onwards is **approximately 22%**
 
-Crash
+b) Top 5 vehicle models with highest number of complaints
+   1. RAV: 2499 complaints
+   2. CAMRY: 2150 complaints
+   3. HIGHLANDER: 1538 complaints
+   4. TACOMA: 1325 complaints
+   5. PRIUS: 1303 complaints
+Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
 
-Fire
+c) Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported
+   1. Crash: 1403 complaints
+   2. Fire: 307 complaints
+   3. Injury: 609 complaints
+   4. Deaths: 21 complaints
+   5. Medical Attention required: 653 complaints
+   6. Police reported: 954 complaints
 
-Injury
+d) Highest number of complaints were regisetered in the following cities
+  1. California: 2766 complaints
+  2. Florida: 1488 complaints
+  3. Texas: 1450 complaints
 
-Death
 
-Medical Attention Required
-
-Police Report Filed
-
-(Add a short summary or visualization of how often these occurred, if available)
-
-📁 Repository Structure
-(Optional section – if your repo contains notebooks, data, scripts, etc.)
-
-🛠️ Tools & Libraries Used
-Python
-
-Pandas, Matplotlib, Seaborn
-
-Jupyter Notebook
-
-Data from NHTSA
-
-📌 Future Work
-Normalize complaints based on vehicle sales
-
-Time-series modeling for predicting future complaint trends
-
-NLP-based classification of complaint severity
+<h1>Analysing complaints which reported deaths</h1>
+ - Between year 2020 and 2024, 21 complaints involving deaths are reported
+ - CAMRY, COROLLA and 4RUNNER are the major models
+ - Using Large Language Model (Mistral), the main systems responisble for accidents were extracted from the CDESCR field
+ - From the description, Large Language Model has identified the following systems
+     1. Air Bag Malfunctioning
+     2. Steering System Failure
+     3. Battery and Electrical System Failure
+ 
+   
+   
