@@ -40,9 +40,19 @@ d) Highest number of complaints were regisetered in the following cities
  - CAMRY, COROLLA and 4RUNNER are the major models
  - Using Large Language Model (Mistral), the main systems responisble for accidents were extracted from the CDESCR field
  - From the description, Large Language Model has identified the following systems
-     1. Air Bag Malfunctioning
-     2. Steering System Failure
-     3. Battery and Electrical System Failure
+     1. **Air Bag Malfunctioning**
+     2. **Steering System Failure**
+     3. **Battery and Electrical System Failure**
+
+<h1>Analysing complaints which reported Fire Incident</h1>
+
+ - Between year 2020 and 2024, 307 complaints involving deaths are reported
+ - RAV4, CAMRY and HIGHLANDER are the major models
+ - Using Large Language Model (Mistral), the main systems responisble for fire incidents were extracted from the CDESCR field
+ - From the description, Large Language Model has identified the following systems
+     1. **Electrical System Failure**
+     2. **Component Overheating**
+     3. **Battery Malfunction & Explosion**
  
    
    
