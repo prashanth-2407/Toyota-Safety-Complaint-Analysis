@@ -1,15 +1,15 @@
 🚗 Toyota Safety Complaint Analysis
 This project analyzes safety complaints registered against Toyota vehicles, sourced from the National Highway Traffic Safety Administration (NHTSA). The goal is to uncover trends and insights to better understand potential safety issues reported by vehicle owners.
 
-📊 Key Insights
-1. 📅 Annual Safety Complaints (2020–2024)
-Year	Number of Complaints
-2020	4,485
-2021	3,223
-2022	2,735
-2023	3,079
-2024	4,092
-Average Year-over-Year increase (2022–2024): ~22%
+    📊 Key Insights
+    1. 📅 Annual Safety Complaints (2020–2024)
+        Year	Number of Complaints
+        2020	4,485
+        2021	3,223
+        2022	2,735
+        2023	3,079
+        2024	4,092
+    Average Year-over-Year increase (2022–2024): ~22%
 
 2. 🚘 Top 5 Toyota Models by Number of Complaints
 Rank	Model	Complaints
