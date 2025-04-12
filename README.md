@@ -4,7 +4,7 @@ In this project, I have analysed the safety complaints registered against Toyota
 
 <h1>Some interesting insights drawn from the analysis</h1>
 
-a) Number of safety complaints registered against toyota's vehicles from 2020 to 2024
+ - Number of safety complaints registered against toyota's vehicles from 2020 to 2024
    1. Year 2020: 4485 complaints
    2. Year 2021: 3223 complaints
    3. Year 2022: 2735 complaints
