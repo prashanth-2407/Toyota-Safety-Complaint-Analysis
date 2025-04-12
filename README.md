@@ -2,7 +2,7 @@
 
 In this project, I have analysed the safety complaints registered against Toyota's vehicle which is available in [NHTSA](https://www.nhtsa.gov/).
 
-# Some interesting insights drawn from the analysis
+**Some interesting insights drawn from the analysis**
 
 a) Number of safety complaints registered against toyota's vehicles from 2020 to 2024
    1. Year 2020: 4485 complaints
