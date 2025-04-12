@@ -35,6 +35,7 @@ d) Highest number of complaints were regisetered in the following cities
 
 
 <h1>Analysing complaints which reported deaths</h1>
+
  - Between year 2020 and 2024, 21 complaints involving deaths are reported
  - CAMRY, COROLLA and 4RUNNER are the major models
  - Using Large Language Model (Mistral), the main systems responisble for accidents were extracted from the CDESCR field
