@@ -54,5 +54,69 @@ d) Highest number of complaints were regisetered in the following cities
      2. **Component Overheating**
      3. **Battery Malfunction & Explosion**
  
-   
+
+Toyota Safety Complaint Analysis
+This project focuses on analyzing safety complaints registered against Toyota vehicles using data sourced from the National Highway Traffic Safety Administration (NHTSA). The goal is to identify key trends, critical issues, and system-level failures that may compromise vehicle safety.
+
+📊 Key Insights from the Analysis
+🗓️ Number of Complaints by Year (2020–2024)
+Year	Number of Complaints
+2020	4,485
+2021	3,223
+2022	2,735
+2023	3,079
+2024	4,092
+Insight: From 2022 onwards, there has been an average year-over-year increase of approximately 22% in the number of complaints.
+
+🚗 Top 5 Toyota Models with the Most Complaints
+Rank	Model	Complaints
+1	RAV4	2,499
+2	Camry	2,150
+3	Highlander	1,538
+4	Tacoma	1,325
+5	Prius	1,303
+⚠️ Note: This data reflects the total number of complaints and is not normalized by the number of vehicles sold. It doesn't necessarily indicate which model is less reliable.
+
+⚠️ Complaints Involving Critical Incidents
+Incident Type	Complaints
+Crash	1,403
+Fire	307
+Injury	609
+Death	21
+Medical Attention Required	653
+Police Report Filed	954
+📍 States with the Highest Number of Complaints
+Rank	State	Complaints
+1	California	2,766
+2	Florida	1,488
+3	Texas	1,450
+🔍 Deep Dive: Complaints Involving Deaths
+A total of 21 complaints involving fatalities were registered between 2020 and 2024.
+
+The models most frequently mentioned were Camry, Corolla, and 4Runner.
+
+Using the Mistral Large Language Model, key vehicle systems responsible for the incidents were extracted from the complaint descriptions (CDESCR field).
+
+Identified systems linked to fatal outcomes:
+
+Airbag Malfunction
+
+Steering System Failure
+
+Battery and Electrical System Failure
+
+🔥 Deep Dive: Complaints Involving Fire Incidents
+A total of 307 fire-related complaints were recorded from 2020 to 2024.
+
+Models most frequently involved were RAV4, Camry, and Highlander.
+
+The Mistral LLM was used to extract system-level causes from the complaint text.
+
+Commonly identified causes of fire incidents:
+
+Electrical System Failure
+
+Component Overheating
+
+Battery Malfunction and Explosion
    
