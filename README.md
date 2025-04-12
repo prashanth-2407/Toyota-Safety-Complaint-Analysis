@@ -18,6 +18,7 @@ b) Top 5 🚗 vehicle models with highest number of complaints
    3. HIGHLANDER: 1538 complaints
    4. TACOMA: 1325 complaints
    5. PRIUS: 1303 complaints
+
 ⚠️ Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
 
 c) Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported
