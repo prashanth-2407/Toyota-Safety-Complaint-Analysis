@@ -12,14 +12,14 @@ In this project, I have analysed the safety complaints registered against Toyota
    5. Year 2024: 4092 complaints
 The average Year-over-year increase in complaints from 2022 onwards is **approximately 22%**
 
- - Top 5 🚗 vehicle models with highest number of complaints
+ - Top 5 vehicle models with highest number of complaints
    1. RAV: 2499 complaints
    2. CAMRY: 2150 complaints
    3. HIGHLANDER: 1538 complaints
    4. TACOMA: 1325 complaints
    5. PRIUS: 1303 complaints
 
-⚠️ Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
+Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
 
  - Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported
    1. Crash: 1403 complaints
@@ -29,10 +29,10 @@ The average Year-over-year increase in complaints from 2022 onwards is **approxi
    5. Medical Attention required: 653 complaints
    6. Police reported: 954 complaints
 
- - Highest number of complaints were regisetered in the following cities 📍
-  1. California: 2766 complaints
-  2. Florida: 1488 complaints
-  3. Texas: 1450 complaints
+ - Highest number of complaints were regisetered in the following cities
+   1. California: 2766 complaints
+   2. Florida: 1488 complaints
+   3. Texas: 1450 complaints
 
 
 <h1>Analysing complaints which reported deaths</h1>
