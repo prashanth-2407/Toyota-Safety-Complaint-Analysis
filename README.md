@@ -46,7 +46,7 @@ Note: Above data just gives the details of the number of complaints. Doesn't nec
      2. **Steering System Failure**
      3. **Battery and Electrical System Failure**
 
-<h3>Analysing complaints which reported Fire Incident
+<h3>Analysing complaints which reported Fire Incident</h3>
 
  - Between year 2020 and 2024, 307 complaints involving deaths are reported
  - RAV4, CAMRY and HIGHLANDER are the major models
