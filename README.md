@@ -33,9 +33,9 @@ In this project, I have analysed the safety complaints registered against Toyota
    
 
  - Highest number of complaints were regisetered in the following cities
-   1. **California: 2766 complaints**
-   2. Florida: 1488 complaints
-   3. Texas: 1450 complaints
+   1. 🏙️ **California: 2766 complaints**
+   2. 🌴 Florida: 1488 complaints
+   3. 🤠 Texas: 1450 complaints
    
 
 
