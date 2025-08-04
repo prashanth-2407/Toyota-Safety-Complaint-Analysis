@@ -5,20 +5,20 @@ In this project, I have analysed the safety complaints registered against Toyota
 <h1>Some interesting insights drawn from the analysis</h1>
 
  - 📅 Number of safety complaints registered against toyota's vehicles from 2020 to 2024
-   1. Year 2020: 4485 complaints
-   2. Year 2021: 3223 complaints
-   3. **Year 2022: 2735 complaints**
-   4. **Year 2023: 3079 complaints**
-   5. **Year 2024: 4092 complaints**
+   1. Year 2020: 4,485 complaints
+   2. Year 2021: 3,223 complaints
+   3. **Year 2022: 2,735 complaints**
+   4. **Year 2023: 3,079 complaints**
+   5. **Year 2024: 4,092 complaints**
       
 📈 The average Year-over-year increase in complaints from 2022 onwards is approximately 22%
 
  - 🚘 Top 5 vehicle models with highest number of complaints
-   1. **RAV: 2499 complaints**
-   2. CAMRY: 2150 complaints
-   3. HIGHLANDER: 1538 complaints
-   4. TACOMA: 1325 complaints
-   5. PRIUS: 1303 complaints
+   1. **RAV: 2,499 complaints**
+   2. CAMRY: 2,150 complaints
+   3. HIGHLANDER: 1,538 complaints
+   4. TACOMA: 1,325 complaints
+   5. PRIUS: 1,303 complaints
    
 
 ⚠️ Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
@@ -33,9 +33,9 @@ In this project, I have analysed the safety complaints registered against Toyota
    
 
  - Highest number of complaints were regisetered in the following cities
-   1. 🏙️ **California: 2766 complaints**
-   2. 🌴 Florida: 1488 complaints
-   3. 🤠 Texas: 1450 complaints
+   1. 🏙️ **California: 2,766 complaints**
+   2. 🌴 Florida: 1,488 complaints
+   3. 🤠 Texas: 1,450 complaints
    
 
 
