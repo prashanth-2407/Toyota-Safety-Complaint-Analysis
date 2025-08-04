@@ -23,7 +23,7 @@ In this project, I have analysed the safety complaints registered against Toyota
 
 ⚠️ Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
 
- - <h3>🆘 Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported</h3>
+ - 🆘 Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported
    1. **Crash**: 1,403 complaints  
    2. **Fire**: 307 complaints  
    3. **Injury**: 609 complaints  
