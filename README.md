@@ -19,21 +19,24 @@ In this project, I have analysed the safety complaints registered against Toyota
    3. HIGHLANDER: 1538 complaints
    4. TACOMA: 1325 complaints
    5. PRIUS: 1303 complaints
+   
 
 ⚠️ Note: Above data just gives the details of the number of complaints. Doesn't necessarily say which model is bad as the values are not normalised
 
  - <h3>🆘 Complaints mentioning Crash, Fire, Injury, Death, Medical attention required and police reported</h3>
-   1. Crash: 1403 complaints 💥 '\n'
-   2. Fire: 307 complaints🔥
-   3. Injury: 609 complaints 🤕
-   4. **Deaths: 21 complaints** ⚰️
-   5. Medical Attention required: 653 complaints 🏥
-   6. Police reported: 954 complaints 👮
+   1. 💥 **Crash**: 1,403 complaints  
+   2. 🔥 **Fire**: 307 complaints  
+   3. 🤕 **Injury**: 609 complaints  
+   4. ⚰️ **Deaths**: 21 complaints  
+   5. 🏥 **Medical Attention required**: 653 complaints  
+   6. 👮 **Police reported**: 954 complaints
+   
 
  - <h3>Highest number of complaints were regisetered in the following cities</h3>
    1. **California: 2766 complaints**
    2. Florida: 1488 complaints
    3. Texas: 1450 complaints
+   
 
 
 <h3>Analysing complaints which reported deaths</h3>
