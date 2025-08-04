@@ -2,7 +2,7 @@
 
 In this project, I have analysed the safety complaints registered against Toyota's vehicle which is available in [NHTSA](https://www.nhtsa.gov/).
 
-<h2>Some interesting insights drawn from the analysis</h2>
+<h1>Some interesting insights drawn from the analysis</h1>
 
  - Number of safety complaints registered against toyota's vehicles from 2020 to 2024
    1. Year 2020: 4485 complaints
@@ -11,7 +11,7 @@ In this project, I have analysed the safety complaints registered against Toyota
    4. **Year 2023: 3079 complaints**
    5. **Year 2024: 4092 complaints**
       
-<h1>The average Year-over-year increase in complaints from 2022 onwards is **approximately 22%**</h1>
+<h2>The average Year-over-year increase in complaints from 2022 onwards is approximately 22%</h2>
 
  - Top 5 vehicle models with highest number of complaints
    1. **RAV: 2499 complaints**
