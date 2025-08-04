@@ -11,7 +11,7 @@ In this project, I have analysed the safety complaints registered against Toyota
    4. **Year 2023: 3079 complaints**
    5. **Year 2024: 4092 complaints**
       
-<h1>The average Year-over-year increase in complaints from 2022 onwards is **approximately 22%**<h1>
+<h1>The average Year-over-year increase in complaints from 2022 onwards is **approximately 22%**</h1>
 
  - Top 5 vehicle models with highest number of complaints
    1. **RAV: 2499 complaints**
