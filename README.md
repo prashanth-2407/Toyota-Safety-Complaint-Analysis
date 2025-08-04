@@ -52,6 +52,7 @@ Note: Above data just gives the details of the number of complaints. Doesn't nec
  - RAV4, CAMRY and HIGHLANDER are the major models
  - Using Large Language Model (Mistral), the main systems responisble for fire incidents were extracted from the CDESCR field
  - From the description, Large Language Model has identified the following systems
+     1. <span style="color:red">This text will be red</span>
      1. **Electrical System Failure**
      2. **Component Overheating**
      3. **Battery Malfunction & Explosion**
